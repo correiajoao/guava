@@ -1,3 +1,12 @@
+Testes gerados pela ferramenta EvoSuite
+===================
+* [Ints_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/primitives/Ints_ESTest.java)
+* [Joiner_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/base/Joiner_ESTest.java)
+* [TreeMultimap_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/collect/TreeMultimap_ESTest.java)
+* [Files_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/io/Files_ESTest.java)
+* [InternetDomainName_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/net/InternetDomainName_ESTest.java)
+* [TimeoutFuture_ESTest.java](https://github.com/correiajoao/guava/blob/master/guava/src/evo/com/google/common/util/concurrent/TimeoutFuture_ESTest.java)
+
 # Guava: Google Core Libraries for Java
 
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
