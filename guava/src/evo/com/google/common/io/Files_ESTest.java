@@ -46,7 +46,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     complexo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test000() throws Throwable {
@@ -71,8 +71,8 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     os valores do File são iguais aos esperados. Por fim existe um trecho de dificil compreensão, o que torna o teste
     *     complexo.
     *
-    * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são compreesíveis em parte são compreensíveis.
+    * Compreensivel: não
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test001() throws Throwable {
@@ -272,7 +272,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     complexo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test005() throws Throwable {
@@ -374,7 +374,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     complexo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test008() throws Throwable {
@@ -630,7 +630,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     - O teste não verifica o comportamento da classe alvo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test017() throws Throwable {
@@ -676,7 +676,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     complexo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test018() throws Throwable {
@@ -719,7 +719,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     - O teste não verifica o comportamento da classe alvo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test020() throws Throwable {
@@ -753,7 +753,7 @@ public class Files_ESTest extends Files_ESTest_scaffolding {
     *     - O teste não verifica o comportamento da classe alvo.
     *
     * Compreensivel: não
-    *     - Tanto o comportamento do teste e quanto suas instruções são de difícil compreensão.
+    *     - Tanto o comportamento do teste quanto suas instruções são de difícil compreensão.
     */
     @Test(timeout = 4000)
     public void test021() throws Throwable {

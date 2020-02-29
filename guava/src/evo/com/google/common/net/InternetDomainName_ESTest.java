@@ -482,9 +482,9 @@ public class InternetDomainName_ESTest extends InternetDomainName_ESTest_scaffol
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13.
+    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12 e
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são em parte compreesíveis.
     */
     @Test(timeout = 4000)
     public void test14() throws Throwable {
@@ -554,9 +554,9 @@ public class InternetDomainName_ESTest extends InternetDomainName_ESTest_scaffol
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14, 15.
+    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14 e 15.
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são em parte compreesíveis.
     */
     @Test(timeout = 4000)
     public void test16() throws Throwable {
@@ -589,9 +589,9 @@ public class InternetDomainName_ESTest extends InternetDomainName_ESTest_scaffol
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.
+    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14, 15 e 16.
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são em parte compreesíveis.
     */
     @Test(timeout = 4000)
     public void test17() throws Throwable {
@@ -624,9 +624,9 @@ public class InternetDomainName_ESTest extends InternetDomainName_ESTest_scaffol
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17.
+    *     - O teste possui similaridade com os testes 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 e 17.
     * Compreensivel: sim
-    *     - O comportamento do teste e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são em parte compreesíveis.
     */
     @Test(timeout = 4000)
     public void test18() throws Throwable {
